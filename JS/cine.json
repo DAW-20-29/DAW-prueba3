@@ -1,0 +1,17 @@
+{
+    "donBosco": {
+        "nombre": "Don Bosco Misión de Amor",
+        "horario": "10:30 AM",
+        "clasificacion": "A"
+    },
+    "mandamientos":{
+        "nombre": "Don Bosco Misión de Amor",
+        "horario": "11:30 AM",
+        "clasificacion": "A"
+    },
+    "juan":{
+        "nombre": "Don Bosco Misión de Amor",
+        "horario": "9:30 AM",
+        "clasificacion": "A"
+    }
+}
